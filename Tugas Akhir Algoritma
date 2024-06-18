@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main(){
+    printf("Panduan Tugas Akhir Algoritma dan Pemograman")
+}
+// Nama : Fandy Delvico Harianja
+// Nim  : 12250514112
